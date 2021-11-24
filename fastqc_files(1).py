@@ -24,3 +24,4 @@ print (command2)
 os.system(command2)
 
 print ('#done')    
+#adding message for purpose of assignment 6
